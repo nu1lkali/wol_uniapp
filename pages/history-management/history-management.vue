@@ -1,9 +1,6 @@
 <template>
 	<view class="container">
 		<!-- #ifndef H5 --> <statusBar></statusBar> <!-- #endif -->
-		<!-- 状态栏占位 -->
-		<view :style="{ height: statusBarHeight + 'px' }" class="status-bar-placeholder"></view>
-
 		<!-- 页面主体 -->
 		<view class="history-page">
 			<!-- 头部 -->

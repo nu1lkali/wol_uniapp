@@ -135,7 +135,7 @@ export default {
 			this.showGuide = false;
 		},
 		initDefaultValues() {
-			this.wolUrl = 'http://nas.pwnhub.net:7690/wol';
+			this.wolUrl = 'http://192.168.2.124:7690/wol';
 			this.macAddress = '6C-7F-12-18-15-1F';
 		},
 		onSelectHistory(e) {

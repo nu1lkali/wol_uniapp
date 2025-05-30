@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "WOL 远程唤醒"
+      }
+    },
+    {
+      "path": "pages/history-management/history-management",
+      "style": {
+        "navigationBarTitleText": "历史记录管理"
+      }
+    }
+  ]
+}
